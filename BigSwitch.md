@@ -4,7 +4,7 @@
 
 ## 预览
 
-![预览](/static/images/BigSwitch_example.gif '预览')
+![BigSwitch_example.gif](https://i.loli.net/2019/11/02/4HFuzJRnUoGiNY7.gif)
 
 ## 使用方法
 
